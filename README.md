@@ -1,6 +1,6 @@
 # Exploring Kiva Loans with Pandas
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GITHUB_USERNAME/kiva-loans-pandas/blob/main/kiva_loans_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/127992/kiva-loans-pandas/blob/main/kiva_loans_analysis.ipynb)
 
 Assignment for *Introduction to Python* (ULisboa): six questions about the
 Kiva crowdfunding loans dataset, answered with pandas.
