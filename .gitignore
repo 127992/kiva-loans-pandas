@@ -1,0 +1,5 @@
+# Dataset (too large for GitHub; loaded from Kaggle in the notebook)
+*.csv
+*.zip
+.ipynb_checkpoints/
+__pycache__/
